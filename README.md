@@ -4,8 +4,6 @@ An interactive Streamlit app to explore every shot taken at UEFA Euro 2024 and t
 
 **👉 [Open the live app](https://appeuros-kocttckiznjsswfm63uead.streamlit.app)**
 
-![App screenshot](screenshot.png)
-
 ## Features
 
 ### Shot map
